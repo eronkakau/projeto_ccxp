@@ -1,5 +1,5 @@
 #principal{
-    background: #FFD900;
+    background: #ffd90084;
     width: 100%;
     height: 100px; 
 }
@@ -19,7 +19,7 @@
 }
 #reviva {
 margin-left: 15px;
-color: #dfc010;
+color: #09be1e;
 font-size: 55px;
 text-align: center;
 font-family: Verdana;
