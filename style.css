@@ -83,7 +83,7 @@ button{
     font-family: Verdana;
     border-radius: 20px;
     margin-left:30px;
-    background-color: #514988;
+    background-color: #0a820e;
     color: white;
     margin-top: 50px;
 
@@ -92,7 +92,7 @@ button{
 }
 
 button:hover{
-    background: #514988;
+    background: #110467;
     cursor: pointer;
     color: #dfc010;
     
